@@ -5,7 +5,6 @@
 #include <dsa/QuadTree.hpp>
 #include <dsa/Vec2.hpp>
 #include <random>
-#include <vector>
 
 class Simulator {
 private:
